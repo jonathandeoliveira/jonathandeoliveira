@@ -39,7 +39,7 @@ Github Stats 👨🏻‍💻🔥
 ---
 <div>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathandeoliveira&layout=compact&theme=transparent&border_radius=5&show_icons=true" width= 39%; />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathandeoliveira&layout=compact&theme=transparent&border_radius=5&show_icons=true" width= 50%; />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
