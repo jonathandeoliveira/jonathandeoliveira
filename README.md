@@ -39,11 +39,11 @@ Github Stats 👨🏻‍💻🔥
 ---
 <div>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathandeoliveira&layout=compact&theme=transparent&border_radius=5&show_icons=true" width= 47%; />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jonathandeoliveira&layout=compact&theme=transparent&border_radius=5&show_icons=true" width= 47%; />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathandeoliveira&border_radius=5&layout=compact&theme=transparent" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jonathandeoliveira&border_radius=5&layout=compact&theme=transparent" />
 </a>
 
 &nbsp;
