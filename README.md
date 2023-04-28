@@ -17,6 +17,7 @@
 ---
 - Sou desenvolvedor ruby e também sou apaixonado por ciência de dados, estatística e machine learning/inteligência artificial
 - Atualmente cursando bacharel no Eixo de Computação pela [UNIVESP](https://univesp.br) e estudando sobre desenvolvimento web
+- Sou aluno da [5ª Academia.Net da Atos](https://www.ufn.edu.br/site/detalhes-noticia/academias-java-e-net-da-atos-estao-com-inscricoes-abertas)
 - Graduado em Mecatrônica Industrial pela [FATEC Santo André](http://www.fatecsantoandre.edu.br/)
 - Participei do TreinaDev8 realizado pela [Campus Code](https://www.campuscode.com.br)
 
@@ -39,7 +40,7 @@ Github Stats 👨🏻‍💻🔥
 ---
 <div>
 <a>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jonathandeoliveira&layout=compact&theme=transparent&border_radius=5&show_icons=true" width= 47%; />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jonathandeoliveira&layout=compact&theme=transparent&border_radius=5&show_icons=true" width= 45%; />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
