@@ -15,13 +15,13 @@
 
 ### Hi👋, I am Jonathan 
 ---
-- Sou desenvolvedor ruby e também sou apaixonado por ciência de dados, estatística e machine learning/inteligência artificial
-- Atualmente cursando bacharel no Eixo de Computação pela [UNIVESP](https://univesp.br) e estudando sobre desenvolvimento web
+- Atualmente sou estagiário na área de dados
+- Sou apaixonado por Dados, estatística, inteligência artificial e também por desenvolvimento de software
+- Atualmente cursando Bacharel em Ciência de Dados pela [UNIVESP](https://univesp.br)
 - Sou aluno da [4ª Academia.Net da Atos](https://www.ufn.edu.br/site/detalhes-noticia/academias-java-e-net-da-atos-estao-com-inscricoes-abertas)
 - Graduado em Mecatrônica Industrial pela [FATEC Santo André](http://www.fatecsantoandre.edu.br/)
-- Participei do TreinaDev8 realizado pela [Campus Code](https://www.campuscode.com.br)
+- Participei do [TreinaDev8](https://treinadev.com.br) realizado pela [Campus Code](https://www.campuscode.com.br)
 
- 
 ### Technologies & Tools
 ---
 <div>
